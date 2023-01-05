@@ -3,7 +3,7 @@ Payloads for BadUsb or RubberDucky
 
 On my first repository I will be adding some payloads I create for Bad Usb
 
-For Mcafee Payload -> We will only need that our victim use a ENG keyboard so PC can read all chars fine.
+For Mcafee Payload -> We will only need that our victim use a ENG keyboard configuration so PC can read all chars fine.
 
 Mcafee.txt will disable some McAffe-AV features such as real time analysis and Firewall after that it will call to download a Ps.ps1 (go check nishang repository to see some reverse shell ps scripts) file and run it
 
