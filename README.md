@@ -9,7 +9,7 @@ Mcafee.txt will disable some McAffe-AV features such as real time analysis and F
 
 On our machine we will need to set up a http server so we can download ps.ps1 file and we will have to set a listener to get our reverse shell.
 
-On McAffe.txt we have to fill it with our ip and directory where ps.ps1 file is.
+The McAffe.txt we have to fill it with our ip and directory where ps.ps1 file is.
 
 # TV-IR
 In this folder I will be adding all the controls infrared
