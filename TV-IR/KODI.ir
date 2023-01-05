@@ -1,0 +1,44 @@
+Filetype: IR signals file
+Version: 1
+# 
+name: Off
+type: parsed
+protocol: NECext
+address: 00 DF 00 00
+command: 1C E3 00 00
+# 
+name: Up
+type: parsed
+protocol: NECext
+address: 00 DF 00 00
+command: 1A E5 00 00
+# 
+name: Down
+type: parsed
+protocol: NECext
+address: 00 DF 00 00
+command: 48 B7 00 00
+# 
+name: Izq
+type: parsed
+protocol: NECext
+address: 00 DF 00 00
+command: 47 B8 00 00
+# 
+name: Dcha
+type: parsed
+protocol: NECext
+address: 00 DF 00 00
+command: 07 F8 00 00
+# 
+name: Ok
+type: parsed
+protocol: NECext
+address: 00 DF 00 00
+command: 06 F9 00 00
+# 
+name: Atras
+type: parsed
+protocol: NECext
+address: 00 DF 00 00
+command: 0A F5 00 00

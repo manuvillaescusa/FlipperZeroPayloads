@@ -1,0 +1,32 @@
+Filetype: IR signals file
+Version: 1
+# 
+name: Pmassony
+type: parsed
+protocol: SIRC
+address: 01 00 00 00
+command: 10 00 00 00
+# 
+name: Atras
+type: parsed
+protocol: SIRC
+address: 01 00 00 00
+command: 11 00 00 00
+# 
+name: VolMas
+type: parsed
+protocol: SIRC
+address: 01 00 00 00
+command: 12 00 00 00
+# 
+name: VolMen
+type: parsed
+protocol: SIRC
+address: 01 00 00 00
+command: 13 00 00 00
+# 
+name: Off
+type: parsed
+protocol: SIRC
+address: 01 00 00 00
+command: 15 00 00 00
