@@ -1,0 +1,2 @@
+# FlipperZeroPayloads
+Payloads for BadUsb 
